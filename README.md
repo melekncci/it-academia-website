@@ -1,3 +1,4 @@
-# it-academia-website
-I am designing a website to improve my knowledge of CSS, HTML and Javascript. My project is ongoing.
+# IT academia
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/melekncci/pen/zYmRepZ](https://codepen.io/melekncci/pen/zYmRepZ).
 
