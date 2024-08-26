@@ -17,8 +17,8 @@ The **IT Academia Website** is designed to serve as an educational resource hub 
 
 ## Features
 
-- **Learn More Section**: Users can click on the "Learn More" box to be redirected to the [softITo homepage](#).
-- **User Authentication**: The website includes "Log in" and "Sign up" boxes that redirect users to the login/signup page of [softITo](#).
+- **Learn More Section**: Users can click on the "Learn More" box to be redirected to the softITo homepage.
+- **User Authentication**: The website includes "Log in" and "Sign up" boxes that redirect users to the login/signup page of softITo.
 - **Navigation**: The top right corner of the website features navigation boxes, allowing users to quickly jump to specific sections.
 - **Contact Us**: A dedicated "Contact Us" section enables users to send their requests, suggestions, and complaints directly through the website.
 - **Date and Time Display**: The current date and time are displayed in the bottom right corner of the site.
